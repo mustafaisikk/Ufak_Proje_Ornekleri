@@ -1,0 +1,6 @@
+/home/mustafa/Projects/Proje_Çalışmaları/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/bin/Debug/Okul_Zili_Uygulaması.exe
+/home/mustafa/Projects/Proje_Çalışmaları/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/bin/Debug/Okul_Zili_Uygulaması.pdb
+/home/mustafa/Projects/Proje_Çalışmaları/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/obj/x86/Debug/Okul_Zili_Uygulaması.csprojAssemblyReference.cache
+/home/mustafa/Projects/Proje_Çalışmaları/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/obj/x86/Debug/Okul_Zili_Uygulaması.csproj.CoreCompileInputs.cache
+/home/mustafa/Projects/Proje_Çalışmaları/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/obj/x86/Debug/Okul_Zili_Uygulaması.exe
+/home/mustafa/Projects/Proje_Çalışmaları/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/Okul_Zili_Uygulaması/obj/x86/Debug/Okul_Zili_Uygulaması.pdb

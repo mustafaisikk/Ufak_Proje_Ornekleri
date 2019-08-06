@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{74159E26-EBDB-49BD-A9CD-E74A326D9A7C}|Default">
+  <MonoDevelop.Ide.ItemProperties.School__Bell__Application PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="School_Bell_Application/gtk-gui/MainWindow.cs">
+    <Files>
+      <File FileName="School_Bell_Application/MainWindow.cs" Line="8" Column="12" />
+      <File FileName="School_Bell_Application/gtk-gui/MainWindow.cs" Line="133" Column="10" />
+      <File FileName="School_Bell_Application/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
